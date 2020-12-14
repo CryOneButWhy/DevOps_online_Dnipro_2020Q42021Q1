@@ -1,16 +1,15 @@
 # DevOps_online_Dnipro_2020Q42021Q1
-#Task 1.1 Git
+# Task 1.1 Git
 
-Since I am using Ubuntu (Debian family), I am using sudo apt-get in order to insall Git;
-Configuring Global settings:  
-
+1. Since I am using Ubuntu (Debian family), I am using sudo apt-get in order to insall Git;
+2. Configuring Global settings:  
 `git config --global user.name "Vladyslav Diachenko"
 git config --global user.email "kry1one11@gmail.com"
 git config --global core.editor "vim"`
 
 
 3. Created account on GitHub with the required name. Created initial catalog structure.
-4. Cloning a repo:
+4. Cloning a repo:  
  `git clone https://github.com/CryOneButWhy/DevOps_online_Dnipro_2020Q42021Q1.git`
 It asks to enter credentials.
 We can use SSH keys in order to avoid it.
