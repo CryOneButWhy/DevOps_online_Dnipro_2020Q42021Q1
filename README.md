@@ -17,18 +17,14 @@ It is also possible to set those credentials via git config.
 
 5. Created file *readme.txt*
 6. initial commit
- Before the commit, I have used - `git status` to check what changes will be commited.  
-`git status
-
-On branch main
-Your branch is up to date with 'origin/main'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	readme.txt
-
-nothing added to commit but untracked files present (use "git add" to track)`
+ Before the commit, I have used - `git status` to check what changes will be commited.    
+ `git status`  
+*On branch main  
+Your branch is up to date with 'origin/main'.  
+Untracked files:*  
+  *(use "git add <file>..." to include in what will be committed)*  
+*readme.txt*  
+*nothing added to commit but untracked files present (use "git add" to track)*
 
 So we adding changed to be tracked
 `git commit -m="Created readme.txt file" `
