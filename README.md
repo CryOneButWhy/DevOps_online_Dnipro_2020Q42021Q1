@@ -1,9 +1,9 @@
 # DevOps_online_Dnipro_2020Q42021Q1
-##Task 1.1 Git
+#Task 1.1 Git
 
-1. Since I am using Ubuntu (Debian family), I am using sudo apt-get in order to insall Git;
+Since I am using Ubuntu (Debian family), I am using sudo apt-get in order to insall Git;
+Configuring Global settings:  
 
-2. Configuring Global settings:
 `git config --global user.name "Vladyslav Diachenko"
 git config --global user.email "kry1one11@gmail.com"
 git config --global core.editor "vim"`
