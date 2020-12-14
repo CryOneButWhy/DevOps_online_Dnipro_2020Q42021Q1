@@ -10,25 +10,25 @@ git config --global core.editor "vim"`
 
 3. Created account on GitHub with the required name. Created initial catalog structure.
 4. Cloning a repo:  
- `git clone https://github.com/CryOneButWhy/DevOps_online_Dnipro_2020Q42021Q1.git`
+ `git clone https://github.com/CryOneButWhy/DevOps_online_Dnipro_2020Q42021Q1.git`  
 It asks to enter credentials.
 We can use SSH keys in order to avoid it.
- It is also possible to set those credentials via git config.
+It is also possible to set those credentials via git config.
 
-5. Created file readme.txt
+5. Created file *readme.txt*
 6. initial commit
- Before the commit, used - `git status` to check what changes will be commited.
-`git status`
+ Before the commit, I have used - `git status` to check what changes will be commited.  
+`git status
 
-*On branch main
-Your branch is up to date with* 'origin/main'.
+On branch main
+Your branch is up to date with 'origin/main'.
 
-*Untracked files:
-  (use "git add <file>..." to include in what will be committed)*
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
 
 	readme.txt
 
-*nothing added to commit but untracked files present (use "git add" to track)*
+nothing added to commit but untracked files present (use "git add" to track)`
 
 So we adding changed to be tracked
 `git commit -m="Created readme.txt file" `
