@@ -41,7 +41,7 @@ Screenshot:
 Since I have made changed in **index.html** file when I was on **images** branch, those changes are not present in other branches.  
 9. Creating **styles** branch and moving to it. After that, I added **styles** folder and **style.css** file in that branch.  
 Screenshot of the website with a connected **style.css** file:  
-![No image](./screenshots/Styles.png)
+![No image](./screenshots/Syles.png)
 10. Merging **styles** branch to  **develop** branch.  
 Seems like there should be merging conflict.  
 However, there were no conflicts during merge as I had an empty **index.html** file on **develop** branch. This file was changed on **images** branch.  
@@ -74,7 +74,7 @@ These logs are located in **history.txt** file
 From the logs we see that first commits were done on GitHub, other commits were made in my local repo where I have set different username.  
 I have used the following command to check commits which were done in my local repo (Using "Vladyslav Diachenko" username)  
 `git log --author "Vladyslav Diachenko"`  
-[a history](./history.txt)  
-15. [a task1.1_GIT.txt](./task1.1_GIT.txt)  
+[history](./history.txt)  
+15. [task1.1_GIT.txt](./task1.1_GIT.txt)  
 16. What is DevOps:  
 DevOps is a role in software development which connects work of developers and IT operations. Basically, it speeds up the process of implementing software code and delivering it to main application. It is done via automation. DevOps also uses CI/CD processes in order to deliver code and implement it into an application. DevOps should also be capable of creating and managing infrastructure, usually it is done using Cloud services. Combination of those aspects increases overall speed and reliability of development, testing, and implementation of a software product.
