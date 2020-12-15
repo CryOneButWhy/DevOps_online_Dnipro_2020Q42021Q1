@@ -1,0 +1,30 @@
+7fe9963 HEAD@{0}: merge develop: Fast-forward
+6dc6fa1 HEAD@{1}: checkout: moving from develop to main
+7fe9963 HEAD@{2}: commit: Fixing merge conflict
+6dc6fa1 HEAD@{3}: reset: moving to HEAD
+6dc6fa1 HEAD@{4}: reset: moving to HEAD
+6dc6fa1 HEAD@{5}: checkout: moving from main to develop
+6dc6fa1 HEAD@{6}: reset: moving to HEAD
+6dc6fa1 HEAD@{7}: merge develop: Fast-forward
+a7acf32 HEAD@{8}: checkout: moving from develop to main
+6dc6fa1 HEAD@{9}: merge styles: Fast-forward
+0c2c12e HEAD@{10}: checkout: moving from styles to develop
+6dc6fa1 HEAD@{11}: commit: Connected syltes.css with index.html
+3d24a94 HEAD@{12}: commit: Created branch styles, folder style, and file style.css
+0c2c12e HEAD@{13}: checkout: moving from develop to styles
+0c2c12e HEAD@{14}: reset: moving to HEAD
+0c2c12e HEAD@{15}: checkout: moving from images to develop
+8ffcc1f HEAD@{16}: checkout: moving from develop to images
+0c2c12e HEAD@{17}: checkout: moving from main to develop
+a7acf32 HEAD@{18}: checkout: moving from develop to main
+0c2c12e HEAD@{19}: checkout: moving from styles to develop
+0c2c12e HEAD@{20}: checkout: moving from develop to styles
+0c2c12e HEAD@{21}: checkout: moving from images to develop
+8ffcc1f HEAD@{22}: commit: Added images as source files in index.html
+2d7c78f HEAD@{23}: commit: Created images branch and images folder with images
+0c2c12e HEAD@{24}: reset: moving to HEAD
+0c2c12e HEAD@{25}: checkout: moving from develop to images
+0c2c12e HEAD@{26}: commit: created new branch and index.html file
+a7acf32 HEAD@{27}: checkout: moving from main to develop
+a7acf32 HEAD@{28}: commit: =Created readme.txt file
+28be811 HEAD@{29}: clone: from https://github.com/CryOneButWhy/DevOps_online_Dnipro_2020Q42021Q1.git

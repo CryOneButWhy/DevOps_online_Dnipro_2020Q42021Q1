@@ -1,0 +1,80 @@
+commit 7fe9963ed02201ea82f8644a46964575d5adeb2c (HEAD -> main, develop)
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:28:11 2020 +0200
+
+    Fixing merge conflict
+
+commit 6dc6fa11664de480231d29f5f25bb1ff6df7c097 (styles)
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:12:29 2020 +0200
+
+    Connected syltes.css with index.html
+
+commit 3d24a94b2cf58f05592bfa095526761f72b10d04
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:07:46 2020 +0200
+
+    Created branch styles, folder style, and file style.css
+
+commit 0c2c12e234dfda1d03b55dc0eeef6da56d46bb7e
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 16:27:25 2020 +0200
+
+    created new branch and index.html file
+
+commit a7acf32122a154e4b348a24786ccc897dae216f0
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 16:24:54 2020 +0200
+
+    =Created readme.txt file
+
+commit 28be811cce9f72f104dd1cab2bac06585aabc56d (origin/main, origin/HEAD)
+Author: CryOneButWhy <44818677+CryOneButWhy@users.noreply.github.com>
+Date:   Sat Dec 12 15:44:53 2020 +0200
+
+    Create task
+
+commit 5e4f050d443a4f5036a4ed4f4b5f5fe5cb39aa1b
+Author: CryOneButWhy <44818677+CryOneButWhy@users.noreply.github.com>
+Date:   Sat Dec 12 15:43:23 2020 +0200
+
+    Delete task1
+
+commit e7326d4c21ab36f1d48fa5c08c5f2633b8211665
+Author: CryOneButWhy <44818677+CryOneButWhy@users.noreply.github.com>
+Date:   Sat Dec 12 15:41:38 2020 +0200
+
+    Create task1
+
+   Created by "Vladyslav Diachenko"
+
+
+commit 7fe9963ed02201ea82f8644a46964575d5adeb2c (HEAD -> main, develop)
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:28:11 2020 +0200
+
+    Fixing merge conflict
+
+commit 6dc6fa11664de480231d29f5f25bb1ff6df7c097 (styles)
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:12:29 2020 +0200
+
+    Connected syltes.css with index.html
+
+commit 3d24a94b2cf58f05592bfa095526761f72b10d04
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 17:07:46 2020 +0200
+
+    Created branch styles, folder style, and file style.css
+
+commit 0c2c12e234dfda1d03b55dc0eeef6da56d46bb7e
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 16:27:25 2020 +0200
+
+    created new branch and index.html file
+
+commit a7acf32122a154e4b348a24786ccc897dae216f0
+Author: Vladyslav Diachenko <kry1one11@gmail.com>
+Date:   Sat Dec 12 16:24:54 2020 +0200
+
+    =Created readme.txt file
