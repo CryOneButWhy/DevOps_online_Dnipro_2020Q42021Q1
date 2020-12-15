@@ -70,11 +70,11 @@ Automatic merge failed; fix conflicts and then commit the result.*
 Screenshot of working website:  
 ![No image](./screenshots/index.png)
 14. `git log` showed history of my commits    
-These logs are located in **history.txt** file  
+These logs are located in [history.txt](./history.txt) file  
 From the logs we see that first commits were done on GitHub, other commits were made in my local repo where I have set different username.  
 I have used the following command to check commits which were done in my local repo (Using "Vladyslav Diachenko" username)  
 `git log --author "Vladyslav Diachenko"`  
-[history](./history.txt)  
+[history.txt](./history.txt)  
 15. [task1.1_GIT.txt](./task1.1_GIT.txt)  
 16. What is DevOps:  
 DevOps is a role in software development which connects work of developers and IT operations. Basically, it speeds up the process of implementing software code and delivering it to main application. It is done via automation. DevOps also uses CI/CD processes in order to deliver code and implement it into an application. DevOps should also be capable of creating and managing infrastructure, usually it is done using Cloud services. Combination of those aspects increases overall speed and reliability of development, testing, and implementation of a software product.
