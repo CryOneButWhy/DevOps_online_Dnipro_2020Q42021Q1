@@ -14,8 +14,7 @@ AWS provides in-built console in order to connect to your instnces directly in y
 ![im](./Screenshots/Snapshot.png)  
 4. It was required to create new volume in EBS and attach it to instance in order to increase disk space.  
 During connection it was noticed that some OSes are renaming volume name inside system.  
-Volume is being added as a block.  So it is required to create File System on it and mount the device.  
-![im](./Screenshots/checking volumes.png)  
+Volume is being added as a block.  So it is required to create File System on it and mount the device.   
 ![im](./Screenshots/mountingvolume.png)  
 5. Using previously-created snapshow, I have launched new instance.  
 It was required to create image from that snapshot first.  
