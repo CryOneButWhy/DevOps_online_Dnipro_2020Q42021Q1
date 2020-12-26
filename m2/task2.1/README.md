@@ -93,6 +93,6 @@ You can specify another Vagrantfile for your box for additional settings.
 I have created box based on **bento/ubuntu** box. In Vagrantfile I have set shell provisioner which executes [bash script](.Vagrant/provisioners/apacheinst.sh)  
 This script installs Apache web-server on machine. It also moves index.html file in order to show it in browser.  I have used additional Vagrantfile which creates port-forwarding of 80's ports. In this way, it will be possible to check website on *localhost*.  
 [Vagrantfile](./Vagrant/Vagrantfile)  
-[im](./Screenshots/vagrantinit.png)  
+![im](./Screenshots/vagrantinit.png)  
 5. I thought that deadline for tasks are set to the end of December (27-30). So, I have not created vagrant box with several machines running in the same network.  
 It will be created and added to this repository soon.  
