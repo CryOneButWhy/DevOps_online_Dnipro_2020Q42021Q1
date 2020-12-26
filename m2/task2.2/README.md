@@ -2,7 +2,7 @@
 1. Launching VM with Amazon Lightsail.  
 Lightsail is a service which allows to quickly run instance without any deep-long configuration.  
 It is useful for some basic applications and in case you do not need complex configuration. It is also has some pre-sets with pre-installed software e.g. WordPress.  
-![im](./Screenshots/Created instance1.png)  
+![im](./Screenshots/Createdinstance1.png)  
 ![im](./Screenshots/connected-to-instance1.png)  
 2. Launching instance using EC2 service allows much more configuration options.  
 I have decided to create my instance in Frankfurt Zone A pretending my users will be mostly from Europe.  
@@ -18,12 +18,12 @@ Volume is being added as a block.  So it is required to create File System on it
 ![im](./Screenshots/mountingvolume.png)  
 5. Using previously-created snapshow, I have launched new instance.  
 It was required to create image from that snapshot first.  
-![im](./Screenshots/Instance form Image.png)  
+![im](./Screenshots/InstanceformImage.png)  
 6. Detaching previously created volume in order to attach it to newly created one.  
 7. I have created instance with WordPress using **Lighsail** service.  
 ![im](./Screenshots/WpLightsail.png)  
 8. Exploring S3 service to store data.  
-![im](./Screenshots/Bucket with repo.png)  
+![im](./Screenshots/Bucketwithrepo.png)  
 9. Managing S3 storage via AWS CLI. Creating IAM user to access S3 from a CLI.    
 `vlados@vlados-VirtualBox:~/awsinst$ aws s3 mb s3://vlados-buckett`  
 `make_bucket: vlados-buckett`  
