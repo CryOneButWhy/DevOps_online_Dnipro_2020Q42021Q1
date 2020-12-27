@@ -61,5 +61,5 @@ The website works after allowing public access.
 [link](http://stealthninja.me)  
 At the moment, it show show 403 error as I have disabled public access to my bucket. Free-tier bucket is limited to storage and number of accesses to objects.  
 It was decided to left it without access in order not to waste resources. Please let me know if you wish to check it and I will remove restrictions.
-**Update Dec 27/202**: I have enabled *public access*.
+**Update Dec 27/2020**: I have enabled *public access*.
 ![im](./Screenshots/WebsiteIsRunning.png)  
