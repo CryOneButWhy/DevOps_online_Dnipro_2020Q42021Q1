@@ -1,5 +1,5 @@
 # Task 4.4
-1. I have already used 3 Routers in order to create Static routing between networks connected to these routers.  
+1. I have already used 3 Routers in order to create Static routing between networks connected to these routers *(task 4.2.2)*.  
 ![image](./screenshots/2.png)  
 ![image](./screenshots/Serial.png)  
 ![image](./screenshots/Static.png)  
