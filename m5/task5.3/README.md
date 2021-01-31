@@ -70,8 +70,8 @@ There are also some process modificators
 
 8. Displaying only processes for a specific user.  
 ![screen](./screenshots/8_1.png)  
-![screen](./screenshots/8_2.png  
-![screen](./screenshots/8_3.png  
+![screen](./screenshots/8_2.png)  
+![screen](./screenshots/8_3.png)  
 
 9. The **ps** command reads virtual files in **/proc**.  
 
@@ -212,6 +212,7 @@ This option shows enabling port-forwarding using default VirtualBox settings ins
 IPtables option will be tested later.  
 ![screen](./screenshots/port_forward_1.png)  
 ![screen](./screenshots/port_forward_2.png)  
+![screen](./screenshots/port_forward_3.png)  
 
 5. Using **tcpdump** to intercept traffic on interface comming via 22 port.  
 Traffic was analyzed with **Wireshark**  
