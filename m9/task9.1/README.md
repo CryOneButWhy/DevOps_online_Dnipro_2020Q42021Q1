@@ -7,7 +7,7 @@ The function itself: [fizzbuzz.py](./fizzbuzz.py)
 1.1 Creating a unit test for our fizzbuzz function.  
 ![screen](./screenshots/1_test.png)  
 It was decided to just import function itself instead of the whole module.  
-Running test:
+Running test:  
 ![screen](./screenshots/1_test_1.png)  
 
 The test itself: [unitt.py](./unitt.py)  
