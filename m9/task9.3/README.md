@@ -1,4 +1,4 @@
-#Task 9.3
+## Task 9.3 
 Creating a web application which shows random picture every page reload. The pictures are taken from the local storage in order to be sure they are always present.
 Python code part:    
 ![application](./screenshots/app.png)  
