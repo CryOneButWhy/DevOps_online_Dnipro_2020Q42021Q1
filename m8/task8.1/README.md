@@ -1,4 +1,4 @@
-#Task 8.1 
+## Task 8.1
 1. It was decided to create 2 Docker containers using **Docker compose** in order to run **WordPress** with **MySQL** instances.  
 So, basically we have 2 WordPress instances running on different ports (8080 and 80801)  
 One instance is used to manage content for Wordpress website. Another instance is just copying current state of the previous WordPress instance.  
